@@ -1,0 +1,8 @@
+flask
+flask-cors
+python-decouple
+python-dotenv
+requests
+pandas
+Flask-RESTful
+scikit-learn
